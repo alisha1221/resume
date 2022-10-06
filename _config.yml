@@ -82,7 +82,7 @@ content:
         sub_title: Data Scientist
         caption: January 2019 - Present
         quote: >
-          It can be done.
+          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
             Every company needs  ...
 
@@ -94,11 +94,11 @@ content:
         caption: 2017 - 2019
         sub_title: MS Statistics
         quote: >
-          Established in 1809, Miami is one of the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the US.
+          Established in 1809, Miami University is the second-oldest university in Ohio (behind Ohio University, founded in 1804) and the 10th oldest public university (32nd overall) in the United States. Miami was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
         description: | # this will include new lines to allow paragraphs
           During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a ...
+          I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
 
   - title: A Little More About Me
     layout: text
