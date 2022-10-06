@@ -110,7 +110,7 @@ content:
       
 
       Look at this cool image  
-      ![parasailing](/alisha1221.github.io/images/parasailing.jpg "parasailing")
+      ![parasailing](images/parasailing.jpg "parasailing")
 
 # Footer
 footer_show_references: true
