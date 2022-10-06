@@ -116,7 +116,7 @@ footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: alisha1221/alisha1221.github.io
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
