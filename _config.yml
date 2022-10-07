@@ -72,6 +72,16 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 #
+  - title: Key Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - SAS, Python, R, R-Shiny, R-Markdown, SQL
+      - Advanced knowledge in MS Office suite (including Pivot Tables, LOOKUP, and Macros)
+      - Building a pipeline from data collection, extraction and verification with building various machine learning, deep learning models and then presenting meaningful results on Dashboard
+      - Actuarial Exams Passed: P, FM, MFE, C, VEE
+      - Experienced with version control tools like GitHub, Gitlab, SVN
+      - Experienced working on High Performance Computing along with cloud-computing platform like Amazon Web Services (AWS)
+   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -86,13 +96,56 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs  ...
 
+      - layout: left
+        title: Procter & Gamble
+        link: us.pg.com
+        # link_text: boringcompany.com
+        sub_title: Data and Modeling Sciences Intern
+        caption: August 2018 - December 2018
+        quote: >
+          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        description: | # this will include new lines to allow paragraphs
+            Every company needs  ...
+            
+      - layout: left
+        title: Ameritas Life Insurance Corporation
+        link: ameritas.com
+        # link_text: boringcompany.com
+        sub_title: Actuarial Intern
+        caption: May 2018 - August 2018
+        quote: >
+          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        description: | # this will include new lines to allow paragraphs
+            Every company needs  ...
+
+      - layout: left
+        title: Miami University
+        link: miamioh.edu
+        # link_text: boringcompany.com
+        sub_title: Graduate Assistant
+        caption: August 2017 - December 2018
+        quote: >
+          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        description: | # this will include new lines to allow paragraphs
+            Every company needs  ...
+
+      - layout: left
+        title: University of Texas at Tyler
+        link: www.uttyler.edu
+        # link_text: boringcompany.com
+        sub_title: Grader
+        caption: September 2015 - May 2016
+        quote: >
+          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        description: | # this will include new lines to allow paragraphs
+            Every company needs  ...
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Miami University
         caption: 2017 - 2019
-        caption: 4.0/4.0
         sub_title: MS Statistics
         quote: >
           Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
