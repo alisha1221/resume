@@ -48,9 +48,7 @@ linkedin_username: rjb-alisha
 # about_title: About Me
 about_profile_image: images/profile0.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Alisha and I'm a data scientist.
-
-  I am most skilled in: <mark>R</mark>, <mark>SAS</mark> and <mark>Python</mark>
+  I am a data scientist with 4+ years of experience working in the research industry with proven problem solving, research, analytical, and communication skills. I collaborate with cross-functional teams to analyze data and generate meaningful insights from them using various tools and models. I am passionate about learning new things.   
 
 content:
 #  - title: Projects # Title for the section
@@ -75,12 +73,12 @@ content:
   - title: Key Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - SAS, Python, R, R-Shiny, R-Markdown, SQL
-      - Advanced knowledge in MS Office suite (including Pivot Tables, LOOKUP, and Macros)
+      - <mark>SAS</mark>, <mark>Python</mark>, <mark>R</mark>, <mark>R-Shiny</mark>, <mark>R-Markdown</mark>, <mark>SQL</mark>
+      - Advanced knowledge in <mark>Microsoft Office</mark> suite (including Pivot Tables, LOOKUP, and Macros)
       - Building a pipeline from data collection, extraction and verification with building various machine learning, deep learning models and then presenting meaningful results on Dashboard
-      - Actuarial Exams Passed: P, FM, MFE, C, VEE
-      - Experienced with version control tools like GitHub, Gitlab, SVN
-      - Experienced working on High Performance Computing along with cloud-computing platform like Amazon Web Services (AWS)
+      - Actuarial Exams Passed: <mark>P, FM, MFE, C, VEE</mark>
+      - Experienced with version control tools like <mark>GitHub</mark>, <mark>Gitlab</mark>, <mark>SVN</mark>
+      - Experienced working on High Performance Computing along with cloud-computing platform like Amazon Web Services (<mark>AWS</mark>)
    
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,10 +89,20 @@ content:
         # link_text: boringcompany.com
         sub_title: Data Scientist
         caption: January 2019 - Present
-        quote: >
-          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        # quote: >
+        #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            Every company needs  ...
+            - Worked with the Health Analytics team in supporting government and private industry clients in the healthcare, defense, and environmental sectors
+            - Communicated efficiently with internal and external clients in describing technical results in a clear and succinct manner in the form of presentations and technical reports
+            - Supported business development efforts by contributing to technical sections of the proposals
+            - Implemented and tested methodologies to solve machine learning/deep learning models in R and Python
+            - Automated multiple tasks to reduce time in multiple projects by efficient coding strategies
+            - Built a pipeline in predicting labor hours required for different tasks in a project and deployed using Shiny Dashboard
+            - Automated the data cleaning process along with EDA and generated ~2800 pages of statistical results and plots with a single click
+            - Performed meta-analysis, survival analysis, cross-design, and various mixed models in drug study as well as time to death analysis using SAS and R
+            - Contributed to delivering the dataset, codebook, data dictionary as well as written well-versed code
+            - Worked in a fast-paced environment with multiple projects and met deadlines
+            - Worked independently as well as in teams, including leading and mentoring staffs
 
       - layout: left
         title: Procter & Gamble
@@ -102,10 +110,11 @@ content:
         # link_text: boringcompany.com
         sub_title: Data and Modeling Sciences Intern
         caption: August 2018 - December 2018
-        quote: >
-          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        # quote: >
+        #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            Every company needs  ...
+            - Analyzed various structured and unstructured data using advanced statistical modeling techniques
+            - Evaluated consumer product usage results and developed statistical webtools for effective data visualization using R Shiny, R Markdown and SAS
             
       - layout: left
         title: Ameritas Life Insurance Corporation
@@ -113,10 +122,13 @@ content:
         # link_text: boringcompany.com
         sub_title: Actuarial Intern
         caption: May 2018 - August 2018
-        quote: >
-          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        # quote: >
+        #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            Every company needs  ...
+            - Reviewed reinsurance treaties between Ameritas and other reinsurance companies to confirm that the reinsurance is being administered properly
+            - Computed premiums using paper-based treaty agreement and compared to the premiums from the reinsurance administration system
+            - Communicated findings from the treaty review process to supervisors
+            - Automated the treaty review process for survivorship policies using Excel VBA
 
       - layout: left
         title: Miami University
@@ -124,10 +136,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Graduate Assistant
         caption: August 2017 - December 2018
-        quote: >
-          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        # quote: >
+        #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            Every company needs  ...
+            - Lead lab sessions for introductory statistics courses 
+            - Held office hours and helped students understand more about the statistics
+            - Graded homeworks, quizzes, exams, labs, and proctored exams
 
       - layout: left
         title: University of Texas at Tyler
@@ -135,10 +149,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Grader
         caption: September 2015 - May 2016
-        quote: >
-          Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
+        # quote: >
+        #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            Every company needs  ...
+            - Graded the assignments and quizzes for Calculus and Statistics courses for the Mathematics department
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,8 +161,8 @@ content:
         title: Miami University
         caption: 2017 - 2019
         sub_title: MS Statistics
-        quote: >
-          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+        #quote: >
+        #  Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
         description: | # this will include new lines to allow paragraphs
           During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -158,23 +172,23 @@ content:
         title: University of Texas at Tyler
         caption: 2015 - 2016
         sub_title: Mathematics, Non-degree
-        quote: >
-          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+        #quote: >
+        #  Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
         description: | # this will include new lines to allow paragraphs
-          During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          #During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
+          I took some mathematics courses to fulfil the prerequisites for MS Statistics program.
 
       - layout: left
         title: Pokhara University
         caption: 2010 - 2014
         sub_title: Bachelor of Business Administration
-        quote: >
-          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+        #quote: >
+        #  Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
         description: | # this will include new lines to allow paragraphs
-          During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+         # During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
+          During my undergraduate years, I took data analysis and modeling course, which piqued my interest in this field. I was intrigued by how we can analyze historical data to gain insights into the future and make data driven decisions. This led me to pursue actuarial exams and take advanced mathematics courses.
 
 
   - title: Publications
@@ -193,7 +207,7 @@ content:
       - Sketching
       
 
-      Look at this cool image  
+      Here is a picture of me parasailing at Cancun.  
       ![parasailing](images/parasailing.JPG "parasailing")
 
 # Footer
