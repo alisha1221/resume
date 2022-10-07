@@ -94,16 +94,46 @@ content:
         caption: 2017 - 2019
         sub_title: MS Statistics
         quote: >
-          Established in 1809, Miami University is the second-oldest university in Ohio (behind Ohio University, founded in 1804) and the 10th oldest public university (32nd overall) in the United States. Miami was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
         description: | # this will include new lines to allow paragraphs
           During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
 
+      - layout: left
+        title: University of Texas at Tyler
+        caption: 2015 - 2016
+        sub_title: Mathematics, Non-degree
+        quote: >
+          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
+
+      - layout: left
+        title: Pokhara University
+        caption: 2010 - 2014
+        sub_title: Bachelor of Business Administration
+        quote: >
+          Established in 1809, Miami University is the second-oldest university in Ohio and was one of the original eight Public Ivy schools, a group of publicly funded universities considered as providing a quality of education comparable to those of the Ivy League.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Miami I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I  was a *graduate assistant* at Miami and spent two semesters leading lab sessions for statistics courses for the undergraduate students.
+
+
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     - Niemuth NA, Fallacara D, Triplett CA, Tamrakar SM, **Rajbhandari A**, Florence C, et al. (2021) **Natural history of disease in cynomolgus monkeys exposed to Ebola virus Kikwit strain demonstrates the reliability of this non-human primate model for Ebola virus disease**. PLoS ONE 16(7): e0252874. https://doi.org/10.1371/journal.pone.0252874 
+     - Schuetter J, Johnson C, **Rajbhandari A**, Bollas A, Fair A, et al. (2022) **The case for targeted community level pathogen genomic biosurveillance and visualization in the Wastewater Pathogen Tracking Dashboard**. Arch Epid Pub Health 4: DOI: 10.15761/AEPH.1000126. 
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in statistics and data science, some of my other interests and hobbies are:
       - Traveling
       - Reading
       - Sketching
