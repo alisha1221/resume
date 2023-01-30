@@ -187,7 +187,7 @@ content:
 
   - title: Publications
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs 
      - **Rajbhandari, A.**, Matteson, K., Katz, E., LeBuhn, G., & Johnson, E. (2023). Bee visitation to flowers throughout New York City. Landscape and Urban Planning, 233, 104689.
      - Kim, H., **Rajbhandari, A.**, Krile, R., Lang, I. M., Antonakos, C. L., & Colabianchi, N. (2023). Body Mass Index Trajectories among the Healthy Communities Study Children: Racial/Ethnic and Socioeconomic Disparities in Childhood Obesity. Journal of racial and ethnic health disparities, 1–13. Advance online publication. https://doi.org/10.1007/s40615-023-01511-x
      - Schuetter J, Johnson C, **Rajbhandari A**, Bollas A, Fair A, et al. (2022) **The case for targeted community level pathogen genomic biosurveillance and visualization in the Wastewater Pathogen Tracking Dashboard**. Arch Epid Pub Health 4: DOI: 10.15761/AEPH.1000126. 
