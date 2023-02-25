@@ -88,21 +88,24 @@ content:
         link: battelle.org
         # link_text: boringcompany.com
         sub_title: Data Scientist
-        caption: January 2019 - Present
+        caption: January 2019 - December 2022
         # quote: >
         #   Battelle is an independent not-for-profit organization that advances science and technology to have the greatest impact on our society and economy.
         description: | # this will include new lines to allow paragraphs
-            - Worked with the Health Analytics team in supporting government and private industry clients in the healthcare, defense, and environmental sectors
-            - Communicated efficiently with internal and external clients in describing technical results in a clear and succinct manner in the form of presentations and technical reports
-            - Supported business development efforts by contributing to technical sections of the proposals
-            - Implemented and tested methodologies to solve machine learning/deep learning models in R and Python
-            - Automated multiple tasks to reduce time in multiple projects by efficient coding strategies
-            - Built a pipeline in predicting labor hours required for different tasks in a project and deployed using Shiny Dashboard
-            - Automated the data cleaning process along with EDA and generated ~2800 pages of statistical results and plots with a single click
-            - Performed meta-analysis, survival analysis, cross-design, and various mixed models in drug study as well as time to death analysis using SAS and R
-            - Contributed to delivering the dataset, codebook, data dictionary as well as written well-versed code
-            - Worked in a fast-paced environment with multiple projects and met deadlines
-            - Worked independently as well as in teams, including leading and mentoring staffs
+            - Worked with the analytics team in supporting government and private industry clients in the healthcare, defense, and environmental sectors.
+            - Implemented and tested methodologies to solve various problems using machine learning/deep learning models.
+            - Performed statistical analysis and modeling, generated graphical displays, managed data, and prepared supporting documentations for a variety of tasks.
+            - Managed micro projects by developing scope and project plans, providing team leadership, monitoring schedules, costs and quality of project as well as carrying out the data analysis.
+            - Automated the data cleaning process along with EDA to produce ~2800 pages of statistical results and plots with a single click.
+            - Built a pipeline in predicting labor hours required for different tasks in a project and deployed using Shiny Dashboard.
+            - Developed data science standards for the biostatistics team and led the efforts for transitioning to GitHub.
+            - Automated multiple tasks to reduce time in multiple projects by efficient coding strategies.
+            - Contributed to delivering the dataset, codebook, data dictionary and documentations.
+            - Communicated efficiently with internal and external clients in describing technical results in a clear and succinct manner in the form of presentations and technical reports.
+            - Contributed to several peer-reviewed journal publications and conference presentations.
+            - Supported business development efforts by contributing to technical sections of the proposals.
+            - Worked in a fast-paced environment with multiple projects and met deadlines.
+            - Worked independently as well as in teams, including leading and mentoring staffs.
 
       - layout: left
         title: Procter & Gamble
@@ -194,17 +197,12 @@ content:
      -  Niemuth NA, Fallacara D, Triplett CA, Tamrakar SM, **Rajbhandari A**, Florence C, et al. (2021) **Natural history of disease in cynomolgus monkeys exposed to Ebola virus Kikwit strain demonstrates the reliability of this non-human primate model for Ebola virus disease**. PLoS ONE 16(7): e0252874. https://doi.org/10.1371/journal.pone.0252874 
 
 
-  - title: A Little More About Me
+  - title: Presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in statistics and data science, some of my other interests and hobbies are:
-      - Traveling
-      - Reading
-      - Sketching
+      - Stewart, M.T., **Rajbhandari, A.**, Lang, I-M., Miller, S., Colabianchi, N. (2021). Neighborhood safety, school programming, and active transportation to school; findings from the Healthy Communities Study (Mini-Oral). 8th International Society for Physical Activity and Health (ISPAH) Congress, held Virtual due to COVID-19. October, 2021.
+      - Stewart, M.T., Verma, M., **Rajbhandari, A.**, Antonakos, C., Colabianchi, N. (2021). Park Availability and Physical Activity Among Children and Adolescents: Findings from the Healthy Communities Study. International Conference on Ambulatory Monitoring of Physical Activity and Movement. Virtual Conference. June, 2021.
       
-
-      Here is a picture of me parasailing at Cancun.  
-      ![parasailing](images/parasailing.JPG "parasailing")
 
 # Footer
 footer_show_references: false
