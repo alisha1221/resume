@@ -9,7 +9,8 @@ version: 2
 name: Alisha Rajbhandari
 title: Data Scientist
 email: alisha.rjb@gmail.com
-website: www.github.com/alisha1221
+github: www.github.com/alisha1221
+website: https://alisha1221.github.io/Portfolio
 
 # Dark Mode (true/false/never)
 darkmode: false
